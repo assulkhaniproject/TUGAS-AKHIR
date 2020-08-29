@@ -1,0 +1,24 @@
+### user mahasiswa 
+- melakukan register dengan ketentuan mengisikan 
+nama lengkap, username, dan password
+- melakukan login dengan mengisikan username dan password 
+- mengisi, mengedit formulir pengajuan dengan ketentuan yang sudah ditetapkan
+- dapat melakukan pengunduhan formulir pengajuan dengan format sesuai dengan SOP
+- dapat ngisikan persyaratan untuk menunjang pengajuan beasiswa
+- dapat melihat hasil / pengumuman
+
+nb : hasil pengunduhan form pengajuan untuk diprintout dan di ttd oleh KaProdi
+sebagai penunjang data hardfile yang akan diajukan pada bidang kemahasiswaa.
+
+### user prodi
+- dapat melihat data mahasiswa pengajuan beasiswa sesuai dengan prodi 
+dengan melihat code NIM 
+- dapat mesubmite data mahasiswa yang layak untuk mendapatkan pengajuan beasiswa
+- 
+
+### user kemahasiswaan 
+- dapat melihat semua data-data mahasiswa pengajuan beasiswa
+- dapat memberikan slot pengajuan pada setiap prodi 
+- dapat mengunduh report semua data mahasiswa yang berlanjut sebagai penerima beasiswa dengan format
+excel yang ditentukan pada bidang kemahasiswaan
+- 
